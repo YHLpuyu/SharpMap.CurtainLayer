@@ -6,3 +6,6 @@
 2.实例化CurtainLayer类
 3.调用Add2Map方法添加到地图中
 4.移除时，调用RemoveFromMap(),从地图中移除
+
+
+效果图
