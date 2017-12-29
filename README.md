@@ -9,3 +9,5 @@
 
 
 效果图
+![image](https://github.com/YHLpuyu/SharpMap.CurtainLayer/edit/master/image.png)
+鼠标点击中间白色竖线，鼠标变成垂直分割样式，拖动即可更改左右视窗大小
